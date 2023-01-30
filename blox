@@ -203,7 +203,7 @@ if BF then
 		end)
 	end
 	
-	function library:Window(name,game)
+	function library:Window(GAO_TEAM,blox fruit)
 		if getgenv().Theme ~= nil then
 			ColorII = getgenv().Theme.Tab.Color
 	
